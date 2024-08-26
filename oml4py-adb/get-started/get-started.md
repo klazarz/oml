@@ -21,7 +21,7 @@ In this lab, you will learn how to:
 You create notebooks in Oracle Machine Learning UI. You can access Oracle Machine Learning UI from Autonomous Database.
 
 <if type="livelabs">
-1. Go to the site [**My Reservations**](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/my-reservations) and make sure you can see that your reservation is ready.  When it is, it will show you a button called **`Launch Workshop`**.  Click on it.
+1. Go to the site [**My Reservations**](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/my-reservations) and make sure you can see that your reservation is ready.  When it is, it will show you a button called **`Launch Workshop`**.  Click on it.
     ![Live Labs My Reservations](images/ll-launch-workshop.png " ")
 
 2. In the window with instructions that opens, click on the **View Login Info** at the **top left** of the page, and then click on the **Launch OCI** button.  Make sure to click on the **Copy Password** button since you will need it to login.
@@ -38,7 +38,7 @@ You create notebooks in Oracle Machine Learning UI. You can access Oracle Machin
 </if>
 
 <if type="livelabs-ocw23">
-1. Go to the site [**My Reservations**](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/my-reservations) and make sure you can see that your reservation is ready.  When it is, it will show you a button called **`Launch Workshop`**.  Click on it.
+1. Go to the site [**My Reservations**](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/my-reservations) and make sure you can see that your reservation is ready.  When it is, it will show you a button called **`Launch Workshop`**.  Click on it.
     ![Live Labs My Reservations](images/ll-launch-workshop.png " ")
 
 2. In the window with instructions that opens, click on the **View Login Info** at the **top left** of the page, and then click on the **Launch OCI** button.  Make sure to click on the **Copy Password** button since you will need it to login.
